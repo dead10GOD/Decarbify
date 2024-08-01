@@ -1,4 +1,3 @@
 document.getElementById('getStartedBtn').addEventListener('click', function() {
-    window.location.href = "#about";
-  });
-  
+  window.location.href = "about.html";
+});
