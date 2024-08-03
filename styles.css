@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SuperMario';
+    src: url('./fonts/SuperMario256.ttf') format('truetype');
+}
+.home-link {
+    background-color: black;
+    border-radius: 0;
+  }
+  
+  .home-link a:focus {
+    outline: none;
+  }
+  
